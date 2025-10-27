@@ -1,4 +1,6 @@
-# SQL-Aggregation-with-PostgreSQL
+# Aggregation Functions for Employee Database Using PostgreSQL
+
+This title emphasizes the use of aggregation functions to manage an employee database in PostgreSQL.
 This project uses PostgreSQL to aggregate data from an employee database. The codebase leverages SQL aggregate functions (COUNT, SUM, MIN, MAX, AVG, ROUND) and grouping operations (GROUP BY, HAVING, DISTINCT) to extract meaningful insights for relational data. The project simulates a real-world employee database, analyzing employee, department, and salary data to answer business questions.
 
 ### Project Purpose
